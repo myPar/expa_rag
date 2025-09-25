@@ -1,0 +1,10 @@
+doc_base/
+data/
+qdrant_storage/
+*.pkl
+*.txt
+final_clear_html_doc_with_tables.py
+*.json
+yandex_cloud_auth.ipynb
+*.zip
+*.pyc
